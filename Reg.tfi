@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+Reg instance_name (
+    .input(input), 
+    .output(output), 
+    .CLK(CLK)
+    );
+
+

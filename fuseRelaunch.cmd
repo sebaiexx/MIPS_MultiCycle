@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/MultiCycle/MultiCycle_isim_beh.exe" -prj "D:/MultiCycle/MultiCycle_beh.prj" "work.MultiCycle" 

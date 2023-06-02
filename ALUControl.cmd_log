@@ -1,0 +1,2 @@
+vhdtdtfi -prj MultiCycle -o D:/MultiCycle/ALUControl.tfi -module ALUControl -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work ALUControl.vhd 
+vhdtdtfi -prj MultiCycle -o D:/MultiCycle/ALUControl.tfi -module ALUControl -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work ALUControl.vhd 

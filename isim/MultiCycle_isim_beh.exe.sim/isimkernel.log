@@ -1,0 +1,28 @@
+Command line:
+   MultiCycle_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  64137
+
+Fri Jun 18 07:07:48 2021
+
+
+ Elaboration Time: 0.15625 sec
+
+ Current Memory Usage: 5819.83 Meg
+
+ Total Signals          : 132
+ Total Nets             : 2721
+ Total Signal Drivers   : 39
+ Total Blocks           : 23
+ Total Primitive Blocks : 22
+ Total Processes        : 23
+ Total Traceable Variables  : 10
+ Total Scalar Nets and Variables : 3099
+
+ Total Simulation Time: 0.15625 sec
+
+ Current Memory Usage: 5819.79 Meg
+
+Fri Jun 18 07:08:18 2021
+

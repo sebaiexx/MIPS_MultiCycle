@@ -1,0 +1,1 @@
+vhdtdtfi -prj MultiCycle -o D:/MultiCycle/Reg.tfi -module Reg -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work Reg.vhd 
